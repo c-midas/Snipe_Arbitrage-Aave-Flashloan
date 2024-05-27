@@ -8,10 +8,10 @@ Fill it out
 
 ## Inspiration
 
-# [Jamesbachini](https://github.com/jamesbachini/Uniswap-V3-Experiments/blob/main/uniswap-v3-trader.js)
-# [jklepatch](https://github.com/jklepatch/eattheblocks/blob/master/screencast/322-uniswap-trading-bot/bot.js)
-# [6eer](https://github.com/6eer/uniswap-sushiswap-arbitrage-bot)
-# [fifikobayashi](https://github.com/fifikobayashi/AaveV2-BatchFlashDemo)
+### [Jamesbachini](https://github.com/jamesbachini/Uniswap-V3-Experiments/blob/main/uniswap-v3-trader.js)
+### [jklepatch](https://github.com/jklepatch/eattheblocks/blob/master/screencast/322-uniswap-trading-bot/bot.js)
+### [6eer](https://github.com/6eer/uniswap-sushiswap-arbitrage-bot)
+### [fifikobayashi](https://github.com/fifikobayashi/AaveV2-BatchFlashDemo)
 ## Basic Plan
 Snipe altcoins on uniswap and sushiswap
 wait for the pair to be deployed on the other respectively
